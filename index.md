@@ -1,14 +1,16 @@
-## <strong>Welcome to bcii.github.io
+## <strong>Welcome to bcii
+http://bcii.github.io
+  
 We are starting to create our site.
 
 For shure it will take a bit of time
 
 So visit us soon again to see more.
 
-### Visit also
+### <strong>Visit also
 Our old Pages site [goto.eu3.org](http://goto.eu3.org).
 
-### Contact us
+### <strong>Contact us
 If you have any questions, please contact us:
 
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
