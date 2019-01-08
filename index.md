@@ -1,7 +1,11 @@
 ## Welcome to bcii.github.io
+
 We are starting to create our site.
+
 For shure it will take a bit of time
+
 So visit us soon again to see more.
+
 ### Visit also
 Our old Pages site [goto.eu3.org](http://goto.eu3.org).
 
