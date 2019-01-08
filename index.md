@@ -3,9 +3,9 @@
   
 <strong>Welcome to bcii</strong>
 
-bcii is about WEBDESIGN, THEMES, HOSTING,
+WEBDESIGN, THEMES, HOSTING, APPS
 
-WOOCOMMERCE, SEO / SMO & MORE
+WOOCOMMERCE, SEO, SMO & MORE
 
 We are about to redesign our site.
 
