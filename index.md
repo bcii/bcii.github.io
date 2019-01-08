@@ -3,7 +3,11 @@
   
 <strong>Welcome to bcii</strong>
 
-We are about to create our site.
+bcii is about WEBDESIGN, THEMES, HOSTING,
+
+WOOCOMMERCE, SEO / SMO & MORE
+
+We are about to redesign our site.
 
 So visit us again to see more.
 
