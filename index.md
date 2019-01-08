@@ -9,8 +9,8 @@ So visit us soon again to see more.
 Our old Pages site [goto.eu3.org](http://goto.eu3.org).
 
 ### Contact us
-<p>If you have any questions, please contact us:</p>
-<ul>
-<li>If You use a mobile device <a href="tel:31644413707"><strong>click here to Call</strong></a></li>
-<li>Or send a message with <a href="https://wa.me/31644413707" target="_blank" rel="noopener"><strong>WhatsApp</strong></a></li>
-<li>By phone number: <strong>+316 444 13 707</strong></li>
+If you have any questions, please contact us:
+
+If You use a mobile device <a href="tel:31644413707"><strong>click here to Call</strong></a>
+Or send a message with <a href="https://wa.me/31644413707" target="_blank" rel="noopener"><strong>WhatsApp</strong></a>
+By phone number: <strong>+316 444 13 707</strong>
