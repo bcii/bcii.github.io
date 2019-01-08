@@ -2,7 +2,6 @@
 <a href="https://bcii.github.io/"><strong>https://bcii.github.io</strong></a>
   
 <strong>Welcome to bcii</strong>
-
 We are starting to create our site.
 
 For shure it will take a bit of time
