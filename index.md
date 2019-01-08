@@ -3,8 +3,7 @@ We are starting to create our site.
 For shure it will take a bit of time
 So visit us soon again to see more.
 ### Visit also
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bcii/bcii/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our old Pages site [goto.eu3.org](http://goto.eu3.org).
 
 ### Support or Contact
 
