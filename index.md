@@ -8,7 +8,7 @@ For shure it will take a bit of time
 So visit us soon again to see more.
 
 ### <strong>Visit also</strong>
-Our old Pages site [goto.eu3.org](http://goto.eu3.org).
+Our old Pages site <strong>[goto.eu3.org](http://goto.eu3.org)</strong>.
 
 ### <strong>Contact us</strong>
 If you have any questions, please contact us:
