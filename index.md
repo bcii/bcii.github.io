@@ -3,9 +3,9 @@
   
 <strong>Welcome to bcii</strong>
 
-We are starting to create our site.
+We are about to create our site.
 
-So visit us soon again to see more.
+So visit us again to see more.
 
 ### <strong>Visit also</strong>
 Our old Pages site <a href="http://goto.eu3.org"><strong>goto.eu3.org</strong></a>.
