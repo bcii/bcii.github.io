@@ -1,4 +1,4 @@
-## <strong>Welcome to bcii
+## <strong>Welcome to bcii</strong>
 http://bcii.github.io
   
 We are starting to create our site.
@@ -7,10 +7,10 @@ For shure it will take a bit of time
 
 So visit us soon again to see more.
 
-### <strong>Visit also
+### <strong>Visit also</strong>
 Our old Pages site [goto.eu3.org](http://goto.eu3.org).
 
-### <strong>Contact us
+### <strong>Contact us</strong>
 If you have any questions, please contact us:
 
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
