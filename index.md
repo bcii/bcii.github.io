@@ -1,5 +1,5 @@
-## <strong>Welcome to bcii</strong>
-http://bcii.github.io
+## <strong>bcii</strong>
+<a href="https://bcii.github.io/"><strong>https://bcii.github.io/</strong></a>
   
 We are starting to create our site.
 
@@ -8,7 +8,7 @@ For shure it will take a bit of time
 So visit us soon again to see more.
 
 ### <strong>Visit also</strong>
-Our old Pages site <strong>[goto.eu3.org](http://goto.eu3.org)</strong>.
+Our old Pages site <a href="http://goto.eu3.org"><strong>goto.eu3.org</strong></a>.
 
 ### <strong>Contact us</strong>
 If you have any questions, please contact us:
