@@ -1,5 +1,4 @@
 ## Welcome to bcii.github.io
-
 We are starting to create our site.
 
 For shure it will take a bit of time
@@ -9,6 +8,9 @@ So visit us soon again to see more.
 ### Visit also
 Our old Pages site [goto.eu3.org](http://goto.eu3.org).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact us
+<p>If you have any questions, please contact us:</p>
+<ul>
+<li>If You use a mobile device <a href="tel:31644413707"><strong>click here to Call</strong></a></li>
+<li>Or send a message with <a href="https://wa.me/31644413707" target="_blank" rel="noopener"><strong>WhatsApp</strong></a></li>
+<li>By phone number: <strong>+316 444 13 707</strong></li>
