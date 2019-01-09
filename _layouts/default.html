@@ -2,16 +2,16 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <link rel="icon" href="https://bcii.github.io/bciifav.png" type="image/png" sizes="16x16">
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset="UTF-8">
+     {% if site.google_analytics %}
+       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+       <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         gtag('config', '{{ site.google_analytics }}');
+       </script>
+     {% endif %}
+     <meta charset="UTF-8">
 {% seo %}
     <meta name="title" content="Bcii">
     <meta name="description" content="bcii">
