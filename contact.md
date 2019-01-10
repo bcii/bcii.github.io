@@ -1,7 +1,8 @@
 ## <strong>bcii</strong>
 <a href="https://bcii.github.io/"><strong>bcii.github.io</strong></a>
   
-<strong>Contact bcii</strong>
+<strong>Contact bcii</strong>)!
+
 
 ### <strong>bcii</strong>
 Alexanderplatz. 1
@@ -10,9 +11,9 @@ Alexanderplatz. 1
 
 Germany in the European Union
 
-E-Mail: bcii.github@gmail.com
+E-Mail: <a href="https://bcii.github@gmail.com "><strong>bcii.github@gmail.com </strong></a>
 
-URL: https://bcii.github.io
+URL: <a href="https://bcii.github.io/"><strong>https:/bcii.github.io</strong></a>
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
