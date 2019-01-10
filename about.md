@@ -3,16 +3,19 @@
   
 <strong>About bcii</strong>
 
-WEBDESIGN, THEMES, HOSTING, APPS
+WEBDESIGN, ONLINESHOPS, ECOMMERCE,
 
-WOOCOMMERCE, SEO, SMO & MORE
+THEMES, HOSTING, APPS, OPEN SOURCE,
 
-We are about to redesign our site.
+DOMAINS, SOCIAL NETWORKING SOFTWARE
 
-So visit us again to see more.
+SEARCH ENGINE OPTIMIZATION (SEO)
 
-### <strong>Visit also</strong>
-Our old site <a href="http://goto.eu3.org"><strong>goto.eu3.org</strong></a>.
+SOCIAL MEDIA OPTIMIZATION (SMO)
+
+NEWS MEDIA OPTIMIZATION (NMO)
+
+TEACHING OF TECHNOLGIES
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
