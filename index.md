@@ -3,13 +3,17 @@
   
 <strong>Welcome to bcii</strong>
 
-WEBDESIGN, THEMES, HOSTING, APPS
+WEBDESIGN, ONLINESHOPS, ECOMMERCE,
 
-WOOCOMMERCE, SEO, SMO & MORE
+THEMES, HOSTING, APPS, OPEN SOURCE,
 
-We are about to redesign our site.
+DOMAINS, SOCIAL NETWORKING SOFTWARE
 
-So visit us again to see more.
+SEARCH ENGINE OPTIMIZATION (SEO)
+
+SOCIAL MEDIA OPTIMIZATION (SMO)
+
+NEWS MEDIA OPTIMIZATION (NMO)
 
 ### <strong>Visit also</strong>
 Our old site <a href="http://goto.eu3.org"><strong>goto.eu3.org</strong></a>.
