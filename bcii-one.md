@@ -3,7 +3,7 @@
 
 <strong>bcii one bcci</strong>
 <hr>
-<!-- bcii
+<pre>bcii
 <p>Theme Name: bcii one
 <p>Theme URI: https://bcii.github.io
 <p>Author: bcii
@@ -66,7 +66,7 @@
     </main>
   </body>
 </html>
--->
+</pre>
 <hr>
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
