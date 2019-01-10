@@ -1,7 +1,7 @@
 ## <strong>bcii</strong>
 <a href="https://bcii.github.io/"><strong>https://bcii.github.io</strong></a>
   
-<strong>Privacy bcii</strong>
+<strong>Privacy Policy bcii</strong>
 
 We aim to ensure that you feel safe on our website, so your privacy and the protection of your personal rights are important to us. Therefore, we would ask you to carefully read the summary below about how our website works. You can trust that your data will be processed transparently and fairly, and we will make every effort to handle your data carefully and responsibly.
 
