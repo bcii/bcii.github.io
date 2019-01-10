@@ -17,10 +17,12 @@ News Media Optimization NMO,
 
 Teaching Of Technology
 
-### <strong>Theme: bcii one 1.0.1</strong>
+### <strong>Theme of this site bcii 1.0.1</strong>
 If You like our site use the theme for free.
 
 View source with Ctrl+U and copy/paste it.
+
+It's Open Source!
 
 <strong>Simple as possible</strong>
 
