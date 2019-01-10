@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <!-- bcii
+<!-- bcii
 <p>Theme Name: bcii one
 <p>Theme URI: https://bcii.github.io
 <p>Author: bcii
@@ -15,7 +15,7 @@
 <p>Version: 1.0.1
 <p>License: GNU General Public License v2 or later
 <p>License URI: https://www.gnu.org/licenses/gpl-2.0.html
-<p>Tags: bcii -->
+<p>Tags: bcii
    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
    <link rel="icon" href="/favicon.ico" type="image/x-icon">
      {% if site.google_analytics %}
@@ -69,6 +69,7 @@
     </main>
   </body>
 </html>
+-->
 <hr>
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
