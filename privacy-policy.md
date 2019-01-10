@@ -10,11 +10,17 @@ The following Privacy Policy aims to inform you about how we use your personal d
 Controller and data protection officer contact details
 The controller for the purposes of the GDPR, other data protection legislation in EU member states and other regulations pertaining to data protection is:
 
-bcii, Alexanderpl. 1, 10178 Berlin, Germany
+bcii
+
+Alexanderpl. 1
+
+10178 Berlin
+
+Germany in the European Union
 
 Phone: +31(6) 444 13 707
 
-E-Mail: info.kai.wolf@gmail.com
+E-Mail: bcii.github@gmail.com
 
 The data protection officer of the controller can be contacted at: info.kai.wolf@gmail.com
 <hr>
