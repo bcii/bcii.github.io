@@ -1,0 +1,78 @@
+## <strong>bcii</strong>
+<a href="https://bcii.github.io/"><strong>https://bcii.github.io</strong></a>
+
+<strong>bcii one bcci</strong>
+<hr>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <!-- bcii
+<p>Theme Name: bcii one
+<p>Theme URI: https://bcii.github.io
+<p>Author: bcii
+<p>Author URI: https://bcii.github.io
+<p>Description: bcii one
+<p>Version: 1.0.1
+<p>License: GNU General Public License v2 or later
+<p>License URI: https://www.gnu.org/licenses/gpl-2.0.html
+<p>Tags: bcii -->
+   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+   <link rel="icon" href="/favicon.ico" type="image/x-icon">
+     {% if site.google_analytics %}
+       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+       <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         gtag('config', '{{ site.google_analytics }}');
+       </script>
+     {% endif %}
+     <meta charset="UTF-8">
+{% seo %}
+    <meta name="title" content="Bcii">
+    <meta name="description" content="bcii">
+    <meta name="keywords" content="bcii, BCII">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="author" content="bcii">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 2px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1px 1px;
+  cursor: pointer;
+}
+</style>
+  </head>
+  <body>
+    <header>
+      <h1><center><a href="https://bcii.github.io/"><strong>bcii.github.io</strong></a></center></h1>
+      <center><a href="https://bcii.github.io/" class="button"><strong>Home</strong></a> <a href="https://bcii.github.io/about" class="button"><strong>About</strong></a> <a href="https://bcii.github.io/contact" class="button"><strong>Contact</strong></a></center>
+    </header>
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+      <footer class="site-footer">
+        <center><a href="https://bcii.github.io/privacy-policy">Privacy Policy</a></center>
+        <center>Copyright © 2019 bcii</center>
+      </footer>
+    </main>
+  </body>
+</html>
+<hr>
+### <strong>Contact us</strong>
+If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
+
+Or send a message with <a href="https://wa.me/31644413707" target="_blank" rel="noopener"><strong>WhatsApp</strong></a>
+
+By phone number: <strong>+316 444 13 707</strong>
