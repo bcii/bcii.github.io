@@ -17,9 +17,6 @@ NEWS MEDIA OPTIMIZATION (NMO)
 
 TEACHING OF TECHNOLGIES
 
-### <strong>Visit also</strong>
-Our old site <a href="http://goto.eu3.org"><strong>goto.eu3.org</strong></a>.
-
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
 
