@@ -11,7 +11,7 @@ Electrical and Electronics Engineering,
 
 Physics, Biology, Biotech, Bionics, BioAi
 
-Machine Learning, Information Architecture.
+Information Architecture and much More.
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
