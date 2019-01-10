@@ -15,9 +15,9 @@ bcii, Alexanderpl. 1, 10178 Berlin, Germany
 Phone: +31(6) 444 13 707
 
 E-Mail: info.kai.wolf@gmail.com
-<hr>
-The data protection officer of the controller can be contacted at: info.kai.wolf@gmail.com
 
+The data protection officer of the controller can be contacted at: info.kai.wolf@gmail.com
+<hr>
 Scope of processing of personal data
 We collect and use your personal data only insofar as it is necessary to provide a functioning website, our content and services, for instance when you register on our website, log in to an existing customer account or order products. Your personal data is only collected and used with your consent. An exception to this rule is where prior consent is not possible due to given circumstances and the processing of the data is permitted by statute.
 
