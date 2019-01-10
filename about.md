@@ -7,11 +7,11 @@
 
 Computer Science, Automatic Information,
 
-Electrical and Electronics Engineering 
+Electrical and Electronics Engineering,
 
-bcii is Biology, Biotech, Bionics, BioAi
+Physics, Biology, Biotech, Bionics, BioAi
 
-And Information Architecture.
+Machine Learning, Information Architecture.
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
