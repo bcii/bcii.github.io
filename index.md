@@ -15,6 +15,8 @@ SOCIAL MEDIA OPTIMIZATION (SMO)
 
 NEWS MEDIA OPTIMIZATION (NMO)
 
+TEACHING OF TECHNOLGIES
+
 ### <strong>Visit also</strong>
 Our old site <a href="http://goto.eu3.org"><strong>goto.eu3.org</strong></a>.
 
