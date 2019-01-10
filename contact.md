@@ -1,7 +1,7 @@
 ## <strong>bcii</strong>
 <a href="https://bcii.github.io/"><strong>bcii.github.io</strong></a>
   
-<strong>Contact bcii</strong>)!
+<strong>Contact bcii</strong>
 
 
 ### <strong>bcii</strong>
