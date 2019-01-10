@@ -20,7 +20,9 @@ Teaching Of Technology
 ### <strong>Theme: bcii one 1.0.1</strong>
 If You like our site use the theme for free.
 
-View source with Ctrl+U and copy/paste it. ☺
+View source with Ctrl+U and copy/paste it.
+
+<strong>Simple as possible</strong>
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
