@@ -1,5 +1,5 @@
 ## <strong>bcii</strong>
-<a href="https://bcii.github.io/"><strong>https://bcii.github.io</strong></a>
+<a href="https://bcii.github.io/"><strong>bcii.github.io</strong></a>
   
 <strong>Contact bcii</strong>
 
@@ -11,6 +11,8 @@ Alexanderplatz. 1
 Germany in the European Union
 
 E-Mail: bcii.github@gmail.com
+
+URL: https://bcii.github.io
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
