@@ -3,11 +3,11 @@
   
 <strong>About bcii</strong>
 
-bcii IS COMPUTER SCIENCE AND AUTOMATIC INFORMATION
+bcii is Computer Science, Automatic Information,
 
-bcii IS FURTHER ELECTRICAL AND ELECTRONICS ENGINEERING
+Electrical and Electronics Engineering 
 
-bcii IS ALSO BIOTECHNOLOGY, BIONICS AND BIOAI
+bcii is Biotech, Bionics and BioAi
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
