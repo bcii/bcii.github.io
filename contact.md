@@ -3,16 +3,12 @@
   
 <strong>Contact bcii</strong>
 
-WEBDESIGN, THEMES, HOSTING, APPS
+### <strong>bcii</strong>
+Alexanderpl. 1
 
-WOOCOMMERCE, SEO, SMO & MORE
+10178 Berlin
 
-We are about to redesign our site.
-
-So visit us again to see more.
-
-### <strong>Visit also</strong>
-Our old site <a href="http://goto.eu3.org"><strong>goto.eu3.org</strong></a>.
+Germany in the European Union
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
