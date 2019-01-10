@@ -4,11 +4,13 @@
 <strong>Contact bcii</strong>
 
 ### <strong>bcii</strong>
-Alexanderpl. 1
+Alexanderplatz. 1
 
 10178 Berlin
 
 Germany in the European Union
+
+E-Mail: bcii.github@gmail.com
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
