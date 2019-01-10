@@ -6,14 +6,16 @@
 We aim to ensure that you feel safe on our website, so your privacy and the protection of your personal rights are important to us. Therefore, we would ask you to carefully read the summary below about how our website works. You can trust that your data will be processed transparently and fairly, and we will make every effort to handle your data carefully and responsibly.
 
 The following Privacy Policy aims to inform you about how we use your personal data, for which we comply with the strict requirements of the German Data Protection Act and the requirements of the General Data Protection Regulation (GDPR).
-
+<hr>
 Controller and data protection officer contact details
 The controller for the purposes of the GDPR, other data protection legislation in EU member states and other regulations pertaining to data protection is:
 
-bcii, Alexanderpl. 1, 10178 Berlin, Germany 
-Phone: +31(6) 444 13 707
-E-Mail: info.kai.wolf@gmail.com
+bcii, Alexanderpl. 1, 10178 Berlin, Germany
 
+Phone: +31(6) 444 13 707
+
+E-Mail: info.kai.wolf@gmail.com
+<hr>
 The data protection officer of the controller can be contacted at: info.kai.wolf@gmail.com
 
 Scope of processing of personal data
