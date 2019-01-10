@@ -3,19 +3,19 @@
   
 <strong>Welcome to bcii</strong>
 
-WEBDESIGN, ONLINESHOPS, ECOMMERCE,
+Webdesign, OnlineShops, eCommerce
 
-THEMES, HOSTING, APPS, OPEN SOURCE,
+Themes, Hosting, Apps, Open Source,
 
-DOMAINS, SOCIAL NETWORKING SOFTWARE
+Domains, Social Networking Software,
 
-SEARCH ENGINE OPTIMIZATION (SEO)
+Search Engine Optimization SEO
 
-SOCIAL MEDIA OPTIMIZATION (SMO)
+Social Media Optimization SMO
 
-NEWS MEDIA OPTIMIZATION (NMO)
+News Media Optimization NMO
 
-TEACHING OF TECHNOLGIES
+Teaching Of Technology
 
 ### <strong>Theme: bcii one 1.0.1</strong>
 If You like our theme use it for free
