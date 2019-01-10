@@ -1,5 +1,5 @@
 ## <strong>bcii</strong>
-<a href="https://bcii.github.io/"><strong>https://bcii.github.io</strong></a>
+<a href="https://bcii.github.io/"><strong>bcii.github.io</strong></a>
   
 <strong>Welcome to bcii</strong>
 
