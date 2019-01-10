@@ -3,24 +3,24 @@
   
 <strong>Welcome to bcii</strong>
 
-Webdesign, OnlineShops, eCommerce
+Webdesign, OnlineShops, eCommerce,
 
 Themes, Hosting, Apps, Open Source,
 
 Domains, Social Networking Software,
 
-Search Engine Optimization SEO
+Search Engine Optimization SEO,
 
-Social Media Optimization SMO
+Social Media Optimization SMO,
 
-News Media Optimization NMO
+News Media Optimization NMO,
 
 Teaching Of Technology
 
 ### <strong>Theme: bcii one 1.0.1</strong>
-If You like our theme use it for free
+If You like our site use the theme for free.
 
-View source with Ctrl+U and copy/paste it
+View source with Ctrl+U and copy/paste it☺
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
