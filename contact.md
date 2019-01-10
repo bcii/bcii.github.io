@@ -10,9 +10,9 @@ Alexanderplatz. 1
 
 Germany in the European Union
 
-E-Mail: <strong>bcii.github@gmail.com</strong>
+E-Mail: bcii.github@gmail.com
 
-URL: <strong>https://bcii.github.io</strong>
+URL: https://bcii.github.io
 
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
