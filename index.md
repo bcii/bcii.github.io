@@ -17,6 +17,11 @@ NEWS MEDIA OPTIMIZATION (NMO)
 
 TEACHING OF TECHNOLGIES
 
+### <strong>Theme</strong>
+If You like our theme use it for free
+
+<a href="https://bcii.github.io/bcii-one"><strong>Click here for the theme-layout-html</strong></a>
+
 ### <strong>Contact us</strong>
 If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
 
