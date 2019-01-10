@@ -3,9 +3,6 @@
 
 <strong>bcii one bcci</strong>
 <hr>
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
 <!-- bcii
 <p>Theme Name: bcii one
 <p>Theme URI: https://bcii.github.io
