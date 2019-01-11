@@ -1,4 +1,4 @@
-## <strong>Home bcii</strong>
+## Home bcii
   
 <strong>Welcome to bcii</strong>
 
