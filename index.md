@@ -1,7 +1,4 @@
 ## Home bcii
-  
-<strong>Welcome to bcii</strong>
-
 Webdesign, OnlineShops, eCommerce,
 
 Themes, Hosting, Apps, Open Source,
