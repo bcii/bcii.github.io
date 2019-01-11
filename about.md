@@ -1,7 +1,5 @@
 ## About bcii
 
-### <strong>bcii is:</strong>
-
 Computer Science, Automatic Information,
 
 Electrical and Electronics Engineering,
