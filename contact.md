@@ -1,4 +1,4 @@
-## <strong>Contact bcii</strong>
+## Contact bcii
 
 ### <strong>bcii</strong>
 Alexanderplatz. 1
