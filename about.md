@@ -9,7 +9,7 @@ Computer Science, Automatic Information,
 
 Electrical and Electronics Engineering,
 
-Physics, Biology, Biotech, Bionics, BioAi
+Physics, Biology, Biotechnology, Bionics, BioAi
 
 Information Architecture and much More.
 
