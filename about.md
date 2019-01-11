@@ -1,4 +1,4 @@
-## <strong>About bcii</strong>
+## About bcii
 
 ### <strong>bcii is:</strong>
 
