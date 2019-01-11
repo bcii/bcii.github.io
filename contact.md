@@ -1,6 +1,7 @@
 ## Contact bcii
 
-### <strong>bcii</strong>
+<strong>bcii</strong>
+
 Alexanderplatz. 1
 
 10178 Berlin
