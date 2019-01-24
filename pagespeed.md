@@ -1,7 +1,5 @@
 ## Pagespeed bcii
 ### Pagespeed test by Google
-<strong>Test URL</strong>
-
 <strong><a href="https://developers.google.com/speed/pagespeed/insights/">Google Pagespeed Test</a></strong>
 
 <strong>Tested URLs</strong>
