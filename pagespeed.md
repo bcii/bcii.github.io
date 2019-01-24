@@ -2,7 +2,7 @@
 ### Pagespeed test by Google
 <strong>Test URL</strong>
 
-https://developers.google.com/speed/pagespeed/insights/
+<a href="https://developers.google.com/speed/pagespeed/insights/" class="titletext"><strong>Google Pagespeed Test</strong></a>
 
 <strong>Tested URLs</strong>
 
