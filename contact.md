@@ -12,7 +12,10 @@ E-Mail: <a href="mailto:bcii bcii.github@gmail.com?Subject=Hello%20again" target
 
 URL: <a href="https://bcii.github.io/"><strong>https:/bcii.github.io</strong></a>
 
-bcii accounts
+<strong>bcii accounts</strong>
+
+<a href="https://github.com/bcii"><strong>github.com/bcii</strong></a>
+
 <a href="https://gitlab.com/bcii"><strong>gitlab.com/bcii</strong></a>
 
 <a href="https://plus.google.com/u/0/113666252456261072011"><strong>plus.google.com/bcii</strong></a>
