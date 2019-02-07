@@ -1,4 +1,4 @@
-# Pageinsights
+# Pagespeed insights
 Analysis time: 7-2-2019 15:35:47
 
 https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2Fbcii.github.io%2F&tab=desktop
