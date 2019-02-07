@@ -7,7 +7,7 @@ bcii vs (google)
 https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2Fbcii.github.io%2F&tab=desktop
 
 Speedscore
-100 (91)
+100 (100)
 
 First Contentful Paint
 0.5 s (0.5)
