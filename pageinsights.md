@@ -25,6 +25,7 @@ First CPU Idle
 Estimated Input Latency
 10 ms
 
+https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2Fbcii.github.io%2F&tab=mobile
 ## Mobile
 Speedscore
 100
