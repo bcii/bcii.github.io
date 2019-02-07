@@ -4,32 +4,45 @@ https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2F
 ## Desktop
 Speedscore
 100
+
 First Contentful Paint
 0.5 s
-First Contentful Paint marks the time at which the first text or image is painted. Learn more.
+
+First Contentful Paint marks
 Speed Index
 0.5 s
+
 Time to Interactive
 0.5 s
+
 First Meaningful Paint
 0.5 s
+
 First CPU Idle
 0.5 s
+
 Estimated Input Latency
 10 ms
+
 ## Mobile
 Speedscore
 100
+
 First Contentful Paint
 1.6 s
-First Contentful Paint marks the time at which the first text or image is painted. Learn more.
+
+First Contentful Paint
 Speed Index
 1.6 s
+
 Time to Interactive
 1.7 s
+
 First Meaningful Paint
 1.7 s
+
 First CPU Idle
 1.7 s
+
 Estimated Input Latency
 10 ms
