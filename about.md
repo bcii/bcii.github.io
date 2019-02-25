@@ -8,4 +8,4 @@ Physics, Biology, Biotech, Bionics, BioAi
 
 Information Architecture and much more.
 
-bcii is a project of <strong><a href="https://vvv.xl.ag">vvv.xl.ag</a></strong>
+bcii is a project of <strong><a href="https://vvv.xl.ag" target="_blank">vvv.xl.ag</a></strong>
