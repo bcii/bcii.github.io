@@ -12,19 +12,17 @@ The controller for the purposes of the GDPR, other data protection legislation i
 
 bcii
 
-Pr. Ben Adam
-
 Alexanderpl. 1
 
 10178 Berlin
 
 Germany in the European Union
 
-Phone: +31(6) 444 13 707
+Phone: +316 227 330 10
 
 E-Mail: bcii.github@gmail.com
 
-The data protection officer of the controller can be contacted at: pr.ben.adam@gmail.com
+The data protection officer of the controller can be contacted at: bcii.github@gmail.com
 <hr>
 Scope of processing of personal data
 We collect and use your personal data only insofar as it is necessary to provide a functioning website, our content and services, for instance when you register on our website, log in to an existing customer account or order products. Your personal data is only collected and used with your consent. An exception to this rule is where prior consent is not possible due to given circumstances and the processing of the data is permitted by statute.
@@ -82,8 +80,8 @@ Finally, we may transmit your data to third parties or government bodies under c
 Your rights
 Of course, you have rights in connection with the collection of your data, which we are pleased to inform you about here. If you wish to make use of any of the following rights free of charge, simply send us a message. You can use the following contact details without incurring any costs other than those charged by your communications provider for transmitting the message:
 
-By email: info@mediamarktsaturn.com
-By post: Media-Saturn-Holding GmbH, Wankelstraße 5, 85046 Ingolstadt, Germany
+By email: bcii.github@gmail.com
+By post: bcii, Alexanderpl. 1, 10178 Berlin, Germany
 
 For your own security, we reserve the right to acquire further information needed to confirm your identity when responding to an existing enquiry. If identification is not possible, we also reserve the right to refuse to respond to your enquiry.
 
@@ -121,10 +119,3 @@ Our website contains links to the websites of other companies. We are not respon
 
 Amendments to the Privacy Policy
 To ensure that our Privacy Policy is compliant with current statutory requirements at all times, we reserve the right to make amendments at any time. This also applies where the Privacy Policy needs to be amended to accommodate new or revised products or services.
-
-### <strong>Contact us</strong>
-If You use a mobile device <a href="tel:31644413707"><strong>Call</strong></a>
-
-Or send a message with <a href="https://wa.me/31644413707" target="_blank" rel="noopener"><strong>WhatsApp</strong></a>
-
-By phone number: <strong>+316 444 13 707</strong>
