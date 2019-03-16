@@ -6,7 +6,7 @@
 
 Testing date: Friday 16th of March 2019
 
-<strong>bcii</strong>  Google
+<strong>bcii</strong> - Google
 
 Of speed maximum
 
