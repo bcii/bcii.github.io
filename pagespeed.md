@@ -10,28 +10,28 @@ Testing date: Friday 16th of March 2019
 
 Of speed maximum
 
-<strong>100%</strong> / 98%
+<strong>100%</strong> - 98%
 
 1st drawing operation content
 
-<strong>0.5s</strong> / 0.5s
+<strong>0.5s</strong> - 0.5s
 
 Speed index
 
-<strong>0.5s</strong> / 0.5s
+<strong>0.5s</strong> - 0.5s
 
 Time to interactive
 
-<strong>0.5s</strong> / 1.2s
+<strong>0.5s</strong> - 1.2s
 
 1st meaningful drawing operation
 
-<strong>0.5s</strong> / 0.5s
+<strong>0.5s</strong> - 0.5s
 
 1st time that CPU was interactive
 
-<strong>0.5s</strong> / 1.1s
+<strong>0.5s</strong> - 1.1s
 
 Estimated input wait time
 
-<strong>10ms</strong> / 10ms
+<strong>10ms</strong> - 10ms
